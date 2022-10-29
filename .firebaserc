@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portfolioargprogpo"
+  },
+  "targets": {
+    "portfolioargprogpo": {
+      "hosting": {
+        "ProyectoFinalPO": [
+          "portfolioargprogpo"
+        ]
+      }
+    }
+  }
+}
